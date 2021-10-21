@@ -54,6 +54,21 @@
 
 
 
+#header{
+    padding: 60px 0px 40px 0;
+    background-color: #333333;
+    text-align: center;
+}
+
+#content{
+	padding-left:120;
+}
+
+#header h1{
+    letter-spacing: 0.1em;
+    font-size: 44px;
+    color: white;
+}
 
 
 
